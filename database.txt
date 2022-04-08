@@ -1,2 +1,8 @@
  andres.coronadolzr@uanl.edu.mx,AAA, a
  andres.coronadolzr@uanl.edu.mx,AAA, aa
+ andres.coronadolzr@uanl.edu.mx,AAA, a
+ andres.coronadolzr@uanl.edu.mx,a, aaa
+ andres.coronadolzr@uanl.edu.mx,aa, aaa
+ andres.coronadolzr@uanl.edu.mx,aa, aa
+ andres.coronadolzr@uanl.edu.mx,a, a
+ andres.coronadolzr@uanl.edu.mx,aaaa1, qqq
